@@ -9,6 +9,7 @@ priority to work.
 2. Log in, create events, subscribe/ unsubscribe, get emails 2 times a day.
 3. The events in the email are sorted in ascending order of their deadlines, so that the most urgent events are shown on the top.
 4. All events from multiple websites appear in a single place, removing the problem of looking up multiple websites to check for deadlines.
+5. Show ETA along with deadline for easier estimation of time left.
 
 ## Screenshot 
 
